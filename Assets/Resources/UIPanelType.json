@@ -1,0 +1,24 @@
+{
+  "infoList":
+  [
+    {"panelTypeString":"Message",
+    "path":"Prefab/MessagePanel"},
+    
+    {"panelTypeString":"Start",
+    "path":"Prefab/StartPanel"},
+     
+    {"panelTypeString":"Login",
+    "path":"Prefab/LoginPanel"},
+    
+    {"panelTypeString":"Register",
+    "path":"Prefab/RegisterPanel"},
+    
+    {"panelTypeString":"RoomList",
+    "path":"Prefab/RoomListPanel"},
+
+    {"panelTypeString":"Room",
+    "path":"Prefab/RoomPanel"},
+    {"panelTypeString":"Game",
+      "path":"Prefab/GamePanel"}
+  ]
+}
