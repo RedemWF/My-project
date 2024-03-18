@@ -1,1 +1,1 @@
-**[GameServer]([http://a](https://github.com/RedemWF/GameServer)https://github.com/RedemWF/GameServer)**
+**[GameServer](https://github.com/RedemWF/GameServer)**
